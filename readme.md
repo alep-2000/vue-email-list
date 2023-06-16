@@ -3,8 +3,9 @@ Attraverso l'apposita API di Boolean https://flynn.boolean.careers/exercises/api
 
 SOLUZIONE:
 1 - Creare un ul nell'HTML;
-2 - Creare una funzione;
+2 - Utilizzare il metodo created;
     2.1 - Creo un ciclo for;
         2.1.1 - Utilizzo l'api per poter generare le mail;
     2.2 - Pusho le mail in un array vuoto creato nel data;
-    2.3 - Stampo l'array a video come lista;
+    2.3 - Utilizzo il v-for nel tag li;
+    2.4 - Stampo l'array a video come lista;
